@@ -7,7 +7,7 @@ public class tj01 {
 //		int su1 = 100;
 //		int su2 = 50;
 //
-//		int add = su1 + su2;
+//		int add = su1 + su2;ee
 //		int sub = su1 - su2;
 //		int gup = su1 * su2;
 //		int div = su1 / su2;
