@@ -8,6 +8,8 @@ public class test01 {
 		String id;
 		System.out.println("아이디 :");
 		id = sc.next();
+		
+		
 		if(id.equals("admin")) {
 			int pw;
 			System.out.println("비밀번호 :");
