@@ -12,8 +12,8 @@ public class Calc2Ex {
 		
 		c1.plint();
 		Calc2 c2 = new Calc2();
-		
-		System.out.println(c2.add);
+		int add1= c1.add1(10, 20);
+		System.out.println(add1);
 		
 		
 		
