@@ -1,7 +1,7 @@
 package tj4;
 
 public class tj1ex {
-//dd
+//ddg
 	public static void main(String[] args) {
 
 		tj1 ss1 = new tj1();
